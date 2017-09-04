@@ -22,12 +22,10 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  
  Create your response below this line. 
  ------------------
-*A Favorite Quote*
+## H2 *A Favorite Quote*
 "Patience, patience, patience, is what the sea teaches. Patience and faith. One should lie empty, open, choiceless as a beach—waiting for a gift from the sea.” 
 ― Anne Morrow Lindbergh
-*A Favorite Photo*
+## H2 *A Favorite Photo*
 
-*A Favorite Photo*
-
-- What is Digital Humanities? 
-- How does digital humanities apply to our every day lives?
+1. What is Digital Humanities? 
+2. How does digital humanities apply to our every day lives?
