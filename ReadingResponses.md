@@ -13,6 +13,9 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
 Taylor Block
 
 ### 2017-09-25: Topic modeling I
+"One way to think about how the process of topic modeling works is to imagine working through an article with a set of highlighters. As you read through the article, you use a different color for the key words of themes within the paper as you come across them." This metaphor used multiple times throughout the first article was very helpful in terms of fully understanding topic modeling. As the subject got more complicated, it was easy to apply the highlighter idea to wrap my mind around tougher concepts. 
+
+"To put this another way, topic modeling can identify discourses as well as subject categories and embedded languages. Naturally we also need other kinds of evidence to produce a history of the discipline, including social and institutional evidence that may not be fully manifest in discourse." The idea of viewing topics as discourses is one that confused me. It was mentioned a few times through the multiple readings, but I am just unsure if I have fully made the connection. I few a topic as perhaps some small interprise within a discourse. 
 
 ### 2017-10-02: Topic Modeling II
 
