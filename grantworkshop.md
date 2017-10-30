@@ -6,7 +6,7 @@
 Here in your repository, write your answers to the following: 
 
 (1) Formulate the humanities question(s) guiding the project. 
-
+Discuss the race progression among a number of Vogue Magazines from the past 10 years. This will be done to analyze the racial norms and progession by country throughout time. 
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
 
