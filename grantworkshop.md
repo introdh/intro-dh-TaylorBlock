@@ -7,11 +7,11 @@ Here in your repository, write your answers to the following:
 
 (1) Formulate the humanities question(s) guiding the project. 
 
-Discuss the race progression among a number of Vogue Magazines from the past 10 years. This will be done to analyze the racial norms and progession by country throughout time. 
+Discuss the popular topics on Vogue Magazines cover from the past five years through topic modeling. This project will analyze how social standards for women vary per country. This will be done per country in order to analyze the differences across the world including: Australia, Brazil, China, France, Germany, Greece, India, Italy, Japan, Korea, Mexico, Portugal, Russia, Spain, Taiwan, United Kingdom, and United States.
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
 
-For this project, I would like to examine Vogue Magazine covers over the past 10 years from a few different questions. This will be done to analyze the cultural norms in each country; as well as the race progession in each country recognizing women outside of the norm. This project will require a facial recognition software or algorithm. A number of studies have already been created software, that needs some updating. This could also be apart of the research necessary. 
+For this project, I would like to examine Vogue Magazine covers over the past 10 years from 17 different countries. This will be done to analyze the cultural norms and standards for women in each country. This project will require a database of the text on each Vogue cover from the past five years. To analyze the covers I will use topic modeling to discover which topics have been the most relevant per country. 
 
 The characterstics of a strong abstract:
 
