@@ -32,6 +32,29 @@ An important component of this project will be creating a website entirely open 
 ## **3) Narrative**
 
 **Inhancing the Humanities**
+The overall goal of this project is to create a functional topic model that identifies prominent topics from Vogue Magazine over 10 years. With this project will we be able to identify the beauty standards across the world in order to better understand the cultural and societal pressures on women. By using the text on the magazine covers, we can identify the topics within these phrases that the industry is using to draw consumers to their product; as well as, identify the ideas that Vogue believes are most appealing to their audience. 
+
+Why is this important? Over the past 10 years there as been an intense increase in mental health problems among young women. These illnesses have included depression, anxiety as well as eating disorders. Many physiologists and scholars in the humanities attribute this to the increase in digital media, and the consumer culture we live in today. Although some studies have been done, they are not conclusive as the data has not been examined as a whole. I want to create this database in order to gather all of this information into one location.	
+
+The first steps of this project will be to gather the data of all of these covers. There are a number of online resources, as well as libraries that hold a vast collection of Vogue, it will just be a matter of complying this information. This could be a goal of the class from the University of Richmond that this project is planning on patterning with. Following data collection, Mallet will be used to create a visual topic model of the information. 
+
+Upon concluded the research and topic modeling aspect of this project, the data will be thoroughly analyzed. A website will be used to host the data and analysis. The data will be displayed in interactive timelines from each country throughout time. Viewers will be able to interact with the images by selecting topics and seeing through images exactly what it is referring to. The website will be entirely open to the public, so that more people can understand and benefit from this project. 
+
+Using this website, scholars can conduct further studies in order to truly pin point exactly what is having a negative effect on young women. With the results, there can be a concrete topic or ideal that we can identify as negatively effecting young women. Once this is known and proven, it will be significantly easier to change the industry. Rather than just saying, “Hey you shouldn’t do that,” we can conclude that the industry should not participate in including certain ideals because they are harmful for X reason that comes out of the topic model. The general public will benefit greatly from 
+
+This topic model will allow scholars access to more data to complete further research. Students will benefit from the learning experience of creating the topic model, as well as using the results to analyze information and indicate where change needs to be made. This topic model as it will be easily accessible to the public, and well explained in the website created so that they may understand the standards employed by Vogue Magazine. 
+
+The digital humanities questions that will be addressed in this project are:
+
++ How are beauty standards represented in text?
++ How do these standards vary per country?
++ What do these beauty standards say about society around the world?
++ How do these standards effect the population?
+
+These questions will help further the media studies discipline. Media studies is defined as “the study of newspapers, magazines, advertising, etc. and their influence on society as an educational subject”. This project will help further this discipline as it will identify the common topics addressed throughout the world. Once the common topics are identified, the information can be used to identify beauty standards society has placed on women.
+	
+
+
 
 **Environmental Scan**
 
