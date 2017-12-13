@@ -53,7 +53,7 @@ The digital humanities questions that will be addressed in this project are:
 
 These questions will help further the media studies discipline within humanities. Media studies is defined as “the study of newspapers, magazines, advertising, etc. and their influence on society as an educational subject”. This project will help further media studies as it will examine the ideals and standards behind the content. With this topic model we will be able to understand what society deems as important through the covers of the magazines.
 
-
+As I stated before, the project will be a topic model made through Mallet. A topic model is a computer-generated document that suggests themes and ideas that appear from co-ocurance which is how often certain words appear next to each other. For this model, 50 topics will be used. This is because there are not many words on the cover of the magazine, so 50 will allow for analysis without making it too large. This will create a topic model that provides an accurate representation of the topics covered on the covers. In addition, the topic model will include a timeline so the data will evolve year to year, helping identify the most prominent topics per year.  
 	
 **Environmental Scan**
 
@@ -64,6 +64,11 @@ The idea for this project was conceived out of a need for more conclusive and pu
 While the work and data collecting has not yet started for this project, there are many preliminary aspects that have begun. As stated earlier, this project will partner with the University of Richmond for the facilities needed to complete the data. We have created a group of students who are interested in collecting and analyzing data for this project. They will do this for internship college credit, thus they do not need to be paid. Additionally, while making this a class at the university the facilities will not need to be paid for by the project. Therefore, we can use the money granted to other aspects of the project like hiring experts to help analyze the data collected. 
 
 **Work Plan**
+The first step to creating this project will be to gather data by locating all of the covers of Vogue. This step will probably be the most time consuming. There are many online resources, as well as archives of the Vogue covers that we will need to gain access to. This will be done mostly by the students, as it will be a good learning experience for them and they will earn credit; thus, we do not need to pay a staff member to complete this. This work that they complete will be diligently checked by myself. 
+
+The next step of this project will be to create a topic model. This step will probably take around two weeks to complete all of the models. Each of the countries will be topic modeled each year, and put together in a visualization. Following having the basic visualization completed by Mallet, we will start adding titles and cleaning up the data. We will then use an algorithm found online to create the topic model over time, and work with the University computer department to create a more user friendly website format. As someone who is familiar with website design, I will work to make it as simple and interactive as possible while still portraying the data accurately. 
+
+Following this, we will work to analyze the data. This will be a large part of my responsibility as well as recruiting other professors and scholars to add their input. I would like some students who are very interested in the project to take part in the analysis as I think it is important to get a number of different opinions regarding the data as data is subjective. Once the data is analyzed, it will also be imported into the website in a user friendly matter. This will create the entire project online. 
 
 **Staff**
 As listed in the “Participants” section of this paper, the researchers involved in the project will be myself, Dr. Lauren Tilton, Lindsay King, Peter Leonard, and other students at the University of Richmond. 
