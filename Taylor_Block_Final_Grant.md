@@ -3,7 +3,7 @@
 2) Abstract: Introduction to the project’s principal activities and its expected results. 
 3) Narrative: Intellectual justification for the project and a work plan. Addresses the long-term goals for the project, as well as the activities that the Digital Humanities Advancement Grant would support. 
       
-             a. _Enhancing the Humanities:_ An explanation of the project activities and the ultimate project results.                                      
+             a. **Enhancing the Humanities:** An explanation of the project activities and the ultimate project results.                                      
       
              b. Enviornmental Scan: Summary of an environmental scan of the relevant field.  
       
