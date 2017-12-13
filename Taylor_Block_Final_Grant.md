@@ -14,6 +14,7 @@ An important component of this project will be creating a website entirely open 
 **Environmental Scan**
 
 **History of the Project**
+
 The idea for this project was conceived out of a need for more conclusive and public data. After viewing a few projects including, Robots Reading Vogue, it was clear that while the interest is there for this topic, there is not much clear data. There are bits and pieces filled in through analysis of the cover photos, but the algorithm used had noticeable problems which tainted the data. The data that is accessible does not offer any answers to humanities questions. Thus, this project will not only create data, but it will also apply the information in an analysis so it can be understood by the public. As stated earlier, this project will hopefully be able to partner with the University of Richmond for the facilities needed to complete the data. 
 
 **Work Plan**
