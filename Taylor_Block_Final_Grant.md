@@ -70,6 +70,9 @@ The next step of this project will be to create a topic model. This step will pr
 
 Following this, we will work to analyze the data. This will be a large part of my responsibility as well as recruiting other professors and scholars to add their input. I would like some students who are very interested in the project to take part in the analysis as I think it is important to get a number of different opinions regarding the data as data is subjective. Once the data is analyzed, it will also be imported into the website in a user friendly matter. This will create the entire project online. 
 
+The evaluation of the project will be widespread. In addition to receiving reviews from the University of Richmond campus, I would like to distribute the project website to a number of different college campuses for both scholars and students to examine. I would like feedback from both the scholars on how clear the data/analysis is; as well as, from the students regarding how comprehensive the site is. A major goal of this project is to address both people from an academic audience, as well as to the general public. 
+
+
 **Staff**
 As listed in the “Participants” section of this paper, the researchers involved in the project will be myself, Dr. Lauren Tilton, Lindsay King, Peter Leonard, and other students at the University of Richmond. 
 
