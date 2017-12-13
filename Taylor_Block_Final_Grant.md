@@ -51,11 +51,10 @@ The digital humanities questions that will be addressed in this project are:
 + What do these beauty standards say about society around the world?
 + How do these standards effect the population?
 
-These questions will help further the media studies discipline. Media studies is defined as “the study of newspapers, magazines, advertising, etc. and their influence on society as an educational subject”. This project will help further this discipline as it will identify the common topics addressed throughout the world. Once the common topics are identified, the information can be used to identify beauty standards society has placed on women.
+These questions will help further the media studies discipline within humanities. Media studies is defined as “the study of newspapers, magazines, advertising, etc. and their influence on society as an educational subject”. This project will help further media studies as it will examine the ideals and standards behind the content. With this topic model we will be able to understand what society deems as important through the covers of the magazines.
+
+
 	
-
-
-
 **Environmental Scan**
 
 **History of the Project**
