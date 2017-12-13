@@ -16,6 +16,7 @@
              f. Final Project and Dissemination: The plans to disseminate the project results through various media. 
       
 ## **1) List of Participants**
+⋅⋅* Taylor Block 
 
 ## **2) Abstract**
 For this project, I will examine the covers of Vogue Magazine over the past ten years from all 17 countries that it is published including: Australia, Brazil, China, France, Germany, Greece, India, Italy, Japan, Korea, Mexico, Portugal, Russia, Spain, Taiwan, United Kingdom, and United States. The project data will be the text content featured on the cover. Using this data, a topic model will be created that highlights the key topics from each country over time. This will allow for analysis of the content per country, as well as over time. 
