@@ -18,6 +18,8 @@
 ## **1) List of Participants**
 + Taylor Block, University of Richmond 
 + Dr. Lauren Tilton, University of Richmond 
++ Lindsay King, Yale University 
++ Peter Leonard, Yale University 
 + Other students to be determined. 
 
 ## **2) Abstract**
