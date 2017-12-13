@@ -2,11 +2,17 @@
 1) List of Participants 
 2) Abstract
 3) Narrative 
+      
       a. Enhancing the Humanities 
+      
       b. Enviornmental Scan 
+      
       c. History of the Project 
+      
       d. Work Plan 
+      
       e. Staff
+      
       f. Final Project and Dissemination 
       
 ## **1) List of Participants**
