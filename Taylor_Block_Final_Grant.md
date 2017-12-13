@@ -3,16 +3,16 @@
 2) Abstract
 3) Narrative 
       
-      a. Enhancing the Humanities 
+               a. Enhancing the Humanities 
       
-      b. Enviornmental Scan 
+               b. Enviornmental Scan 
       
-      c. History of the Project 
+               c. History of the Project 
       
-      d. Work Plan 
+               d. Work Plan 
       
-      e. Staff
-      
+               e. Staff
+        
       f. Final Project and Dissemination 
       
 ## **1) List of Participants**
