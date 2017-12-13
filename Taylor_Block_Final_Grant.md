@@ -3,17 +3,17 @@
 2) Abstract: Introduction to the project’s principal activities and its expected results. 
 3) Narrative: Intellectual justification for the project and a work plan. Addresses the long-term goals for the project, as well as the activities that the Digital Humanities Advancement Grant would support. 
       
-      a. Enhancing the Humanities: An explanation of the project activities and the ultimate project results.                                      
+             a. Enhancing the Humanities: An explanation of the project activities and the ultimate project results.                                      
       
-      b. Enviornmental Scan: Summary of an environmental scan of the relevant field.  
+             b. Enviornmental Scan: Summary of an environmental scan of the relevant field.  
       
-      c. History of the Project: History of the project, including information about preliminary research or planning, previous related work, previous financial support, publications produced, and resources or research facilities available.  
+             c. History of the Project: History of the project, including information about preliminary research or planning,             previous related work, previous financial support, publications produced, and resources or research facilities available.  
     
-      d. Work Plan: The specific tasks that will be accomplished during the grant period. 
+             d. Work Plan: The specific tasks that will be accomplished during the grant period. 
       
-      e. Staff: The project director and collaborators who will work on the project and a description of their responsibilities.
+             e. Staff: The project director and collaborators who will work on the project and a description of their responsibilities.
         
-      f. Final Project and Dissemination: The plans to disseminate the project results through various media. 
+             f. Final Project and Dissemination: The plans to disseminate the project results through various media. 
       
 ## **1) List of Participants**
 
