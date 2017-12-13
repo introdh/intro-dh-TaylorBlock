@@ -66,5 +66,14 @@ While the work and data collecting has not yet started for this project, there a
 **Work Plan**
 
 **Staff**
+As listed in the “Participants” section of this paper, the researchers involved in the project will be myself, Dr. Lauren Tilton, Lindsay King, Peter Leonard, and other students at the University of Richmond. 
+
+Dr. Lauren Tilton is a professor of digital humanities at the University of Richmond, and is very familiar with the grant process. She has assisted and will continue to assist with this grant as we move through the process.
+
+Lindsay King is the Associate Director for Access and Research Services at Yale University. She was on the staff of “Robots Reading Vogue.” She is familiar with the humanities questions presented in this project, and will be able to analyze the data. She also will be helpful to the students who are assigning in the project. 
+
+Peter Leonard is a researcher at Yale University. He was a Fulbright Scholar and did a text mine research project supported by Google. His background with text mining and dealing with large potion of data will be helpful in the analysis portion of the process, but more so in collecting the data. 
+
+A class of senior students at the University of Richmond will also assist gathering data for this project. This is an important learning experience for Digital Humanities scholars, and it will also help further engage the DH community at the University. Additionally, doing this will give the project adequate access to facilities. 
 
 **Final Product and Dissemination**
