@@ -1,9 +1,9 @@
 ## **Table of Contents**
-1) List of Participants 
-2) Abstract
-3) Narrative 
+1) List of Participants: Project participants and collaborators.   
+2) Abstract: Introduction to the project’s principal activities and its expected results. 
+3) Narrative: Intellectual justification for the project and a work plan. Addresses the long-term goals for the project, as well as the activities that the Digital Humanities Advancement Grant would support. 
       
-               a. Enhancing the Humanities 
+               a. Enhancing the Humanities: A clear and concise explanation of the project activities and the ultimate project                                          results. 
       
                b. Enviornmental Scan 
       
